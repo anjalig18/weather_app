@@ -11,7 +11,7 @@ This is a simple weather app built using HTML, CSS, and JavaScript. It fetches w
 
 ## Demo
 
-![Weather App Demo]
+[Weather App Demo]
 
 ![image](https://github.com/anjalig18/weather_app/assets/92169945/eb69a8bd-b0a3-4a2f-900c-fcca274bf7ff)
 
