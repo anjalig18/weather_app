@@ -13,7 +13,8 @@ This is a simple weather app built using HTML, CSS, and JavaScript. It fetches w
 
 [Weather App Demo]
 
-![image](https://github.com/anjalig18/weather_app/assets/92169945/eb69a8bd-b0a3-4a2f-900c-fcca274bf7ff)
+![image](https://github.com/anjalig18/weather_app/assets/92169945/cad06b4b-cb43-40a9-8265-b3e6dd08d3c2)
+
 
 
 ## Repo Structure
