@@ -38,9 +38,9 @@ weather-app/
 
 ## Quick Links
 
-- [index.html](#index.html)
-- [script.js](#script.js)
-- [style.css](#style.css)
+- [index.html]([#index.html](https://github.com/anjalig18/weather_app/blob/main/index.html))
+- [script.js]([#https://github.com/anjalig18/weather_app/blob/main/script.js)
+- [style.css](#https://github.com/anjalig18/weather_app/blob/main/index.htmlstyle.css)
 
 ### index.html
 
